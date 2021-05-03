@@ -1,0 +1,181 @@
+---
+title: "Minhui Ma"
+author: "Minhui Ma"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> mma05@tufts.edu
+- <i class="fa fa-github"></i> [github.com/minhui-ma/](https://github.com/minhui-ma/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in **data visulizaation** using **Rshiny**, **Rmarkdown**, **Tableau**, **Power BI**
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/SQL/Matlab/C/C++/SQL** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Minhui Ma {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Summer 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2020--Current
+
+
+### Sun Yat-sen University
+
+B.S. in Mathematics and Applied Mathematics
+
+Guangzhou, China 
+
+2015--2020
+
+
+### University of California, Berkeley
+
+Exchange Student
+
+Berkeley, CA 
+
+2018--2018
+
+
+
+Internship Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Data Analyst
+
+eBay
+
+Shenzhen, China
+
+May, 2020 -- Dec, 2020
+
+- Performed analysis tasks using Spark SQL, R, and Python, and conducted research for eBay policy enforcement
+- Created dashboards with Rshiny, Rmarkdown, and Tableau to present daily business trend and assist the team on make future decisions and strategies
+
+
+### Project Management
+
+Ipsos
+
+Guangzhou, China
+
+Apr, 2020 -- Apr, 2020
+
+- Conducted desk research about electric toothbrush and other consumer goods
+- Managed a product testing project and had interviews with product consumers
+
+
+### Data Operation
+
+Mars Wrigley Confectionery
+
+Guangzhou, China
+
+Sep, 2018 -- Jan, 2019
+
+- Built databases with Access and processed 6 weekly consumption reports about three channels of China Resources Vanguard with over 1500 stores
+- Independently responsible for updating channel stores and product information
+- Proposed suggestions about database optimization and data visualization.
+
+
+### Market Analyst
+
+China Life Insurance
+
+Guangzhou, China
+
+Jul, 2018 -- Aug, 2018
+
+- Project involved: Guangdong, Hong Kong and Macau, the "Greater Bay Area" Development Report
+- Collected and processed raw data along with analysis and synthesis of information using Excel
+
+
+Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Airbnb Review Scores Rating Exploratory and Prediction
+
+Tufts University
+
+Medford, MA
+
+Nov, 2020 -- Dec, 2020
+
+<!--::: concise-->
+- Deployed exploratory data analysis based on Airbnb listing dataset, mainly focuding on review scores rating
+- Iterated the model to select the best approach, given OLS regression, random forest and LASSO regression.
+<!--:::-->
+
+
+### NL-Means and BM3D Based Image Denoising and Low-Illumination Image Processing
+
+Sun Yat-sen University
+
+Guangzhou, China
+
+2015 -- 2018
+
+- Studied image restoration algorithms to solve the problem of image damaged by noises and the unclear of low illumination images 
+- Applied image denoising algorithms, including Non-local Means denoising algorithm and Block-matching and 3D filtering algorithm, and combined image enhancement algorithms to obtain high quality restored images.
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+### Airbnb Review Scores Rating Exploratory and Prediction
+Presented a model for Airbnb review scores rating detection, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+March 2020
+
+
