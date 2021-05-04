@@ -1,0 +1,137 @@
+---
+title: "Kan Zhou"
+author: Kan Zhou
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>kan.zhou@tufts.edu
+- <i class="fa fa-github"></i> [github.com/KanZhou0412/](https://github.com/KanZhou0412)
+- <i class="fa fa-phone"></i> +1 617-678-6670
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- **R, Python, Matlab, SPSS, Microsoft Excel (VLOOKUP, Pivot table), PowerPoint, Alteryx, Tableau, Power BI**
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/Stata/SQL** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Kan Zhou {#title}
+--------------------------------------------------------------------------------
+
+### Data Science student seeking Summer 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+MS Candidate in Data Science and Innovation Management
+Medford, MA
+
+2020--Current
+
+
+### Northeastern University
+B.A. in Mathematics and Finance
+Boston, MA 
+
+2015--2020
+
+### The Chinese University of Hong Kong
+Hong Kong 
+
+2018-2018
+
+Professional Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Boston Consulting Group
+Marketing Platform & CRM Assistant, North America Team
+
+Boston, MA
+2019.01--2019.6
+
+- Used Power BI Dashboard to compare the BCG marketing coverage with workloads in two months, uncovering imbalances and gaps to improve the quarterly performance of the company
+- Met with strategy and event teams daily to discuss and edit the content of BCG Concilium video which would be published on the BCG Website in June
+
+### Brown Brother Harriman Company
+Investor Service Corporate Action Operation Specialist
+
+Boston, MA
+2018.01--2018.6
+
+- Ran In-House Report from system and identified the status of each item, made collateral packages then sent them to the security lending department and investment banks
+- Made 50+ payments from In-House & Away lending and Third Party to brokers
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Zinqe Sprint Entrepreneur Project
+
+
+Tufts University
+
+Medford, MA
+2020.9--2020.12
+
+<!--::: concise-->
+- Designed a platform to connect with engineering students and engineering businesses
+
+
+<!--:::-->
+
+
+
+
+### Short-term Stock Price Strategy and Long-term Stock Analysis
+
+Northeastern University
+
+2019.10-2019.12
+
+
+- Used Python to show the correlation and make analysis for technology stocks visually
+- Set strategies for a technology portfolio in a short-term with 5.2% higher than the benchmark return
+
+
